@@ -11,12 +11,15 @@ const Container = styled.div`
     justify-content: end;
 `
 export const Img = styled.div`
+    height: 20%;
     display: flex;
     justify-content: flex-end;
+    position: relative;
+
 `
 export const Info = styled.div`
-    height: 58%;
-    width: 100%;
+    height: 80%;
+    width: 108%;
     background-color: hsl(235, 46%, 20%);
     border-radius: 10px;
     position: relative;

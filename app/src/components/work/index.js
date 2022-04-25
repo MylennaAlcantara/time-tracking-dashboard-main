@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "./work";
 import { Info } from "./work";
+import { Img } from "./work";
 
 
 export const Work = () => {
